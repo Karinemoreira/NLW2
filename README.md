@@ -2,6 +2,8 @@
 
 Projeto realizado durante a Next Level Week 2 da Rocketseat, criação do front-end e back-end da aplicação.
 
+![proffy web](https://user-images.githubusercontent.com/51829166/90290851-ffe46a00-de54-11ea-836e-8469f0d7713c.gif)
+
 ## Objetivo
 
 Aplicação para cadastro e consulta de professores.
